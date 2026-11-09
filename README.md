@@ -1,3 +1,3 @@
 # dsh-superagent demo
 
-Trial repository for dsh-superagent.
+A playground for dsh-superagent trials.
